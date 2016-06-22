@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Week2csharp\arrayinputandaverage\arrayinputandaverage\bin\Debug\arrayinputandaverage.exe.config
+C:\Users\student\Documents\GitHub\Week2csharp\arrayinputandaverage\arrayinputandaverage\bin\Debug\arrayinputandaverage.exe
+C:\Users\student\Documents\GitHub\Week2csharp\arrayinputandaverage\arrayinputandaverage\bin\Debug\arrayinputandaverage.pdb
+C:\Users\student\Documents\GitHub\Week2csharp\arrayinputandaverage\arrayinputandaverage\obj\Debug\arrayinputandaverage.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2csharp\arrayinputandaverage\arrayinputandaverage\obj\Debug\arrayinputandaverage.exe
+C:\Users\student\Documents\GitHub\Week2csharp\arrayinputandaverage\arrayinputandaverage\obj\Debug\arrayinputandaverage.pdb

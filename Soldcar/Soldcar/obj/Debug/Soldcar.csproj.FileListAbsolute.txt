@@ -1,0 +1,2 @@
+C:\Users\student\Documents\GitHub\Week2csharp\Soldcar\Soldcar\bin\Debug\Soldcar.exe.config
+C:\Users\student\Documents\GitHub\Week2csharp\Soldcar\Soldcar\obj\Debug\Soldcar.csprojResolveAssemblyReference.cache

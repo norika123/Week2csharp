@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Week2csharp\cardealer\cardealer\bin\Debug\cardealer.exe.config
+C:\Users\student\Documents\GitHub\Week2csharp\cardealer\cardealer\obj\Debug\cardealer.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2csharp\cardealer\cardealer\bin\Debug\cardealer.exe
+C:\Users\student\Documents\GitHub\Week2csharp\cardealer\cardealer\bin\Debug\cardealer.pdb
+C:\Users\student\Documents\GitHub\Week2csharp\cardealer\cardealer\obj\Debug\cardealer.exe
+C:\Users\student\Documents\GitHub\Week2csharp\cardealer\cardealer\obj\Debug\cardealer.pdb

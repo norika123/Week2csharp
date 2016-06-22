@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Week2csharp\userinput\userinput\bin\Debug\userinput.exe.config
+C:\Users\student\Documents\GitHub\Week2csharp\userinput\userinput\bin\Debug\userinput.exe
+C:\Users\student\Documents\GitHub\Week2csharp\userinput\userinput\bin\Debug\userinput.pdb
+C:\Users\student\Documents\GitHub\Week2csharp\userinput\userinput\obj\Debug\userinput.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2csharp\userinput\userinput\obj\Debug\userinput.exe
+C:\Users\student\Documents\GitHub\Week2csharp\userinput\userinput\obj\Debug\userinput.pdb
